@@ -1,4 +1,4 @@
-# Part II - Loan Data from Prosper Analysis
+# Loan Data from Prosper Analysis
 ## by Nosakhare Imasuen
 
 
