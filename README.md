@@ -22,3 +22,4 @@
 The data dictionary was analyzed in order to properly grasp each variable in order to make sense of the data. Following then, the BorrowerAPR became the key focus of the investigation.
 
 >The data was then cleared of empty roles, particularly BorrowerAPR and Occupation, during the wrangling step. In addition, column(s) with no data after the initial cleansing were removed from the list of variables. The goal of the cleaning is to guarantee that the data that was analyzed can satisfy their obligations."# prosper_loan" 
+"# prosper_loan" 
